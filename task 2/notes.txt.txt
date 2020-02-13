@@ -1,0 +1,11 @@
+1.print()- used to print results on the console and remains the cursor in the same line.
+
+2.println()- used to print results on the console and cursor move to the next line.
+eg:- System.out.println("Hello World");       Result:-Hello World
+
+3.\n- used to print results in more than one line with using only one print statement.
+eg:- System.out.println("Hello" + "\n" + "World");      Result:-Hello
+                                                                                                             World
+
+4. System.out.println():-prints the argument passed to it, where system is the class name,declared as final.
+ The out is an instance of the system class.
