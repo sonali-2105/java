@@ -1,0 +1,15 @@
+Parameters used in Hello World program:
+
+1. class-used to declare a class in java.
+
+2.public-is an access modifier which represents visibility.
+
+3. static-is a keyword. If static method is used, no need to create any object.
+
+4. void-return type of the method. it does'nt return any value.
+
+5.main-starting point of the program.
+
+6.String[ ] args-used for command line argument.
+
+7.System.out.println()-used to print statement. system is a class, out is the object,println() is the method.
