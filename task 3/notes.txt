@@ -1,0 +1,23 @@
+For Loop- used to iterate a part of the program several times.
+
+Initialization:- here we initialize the variable.
+
+Condition:- which is executed each time to test the conditon of the loop. It continues the execution untill the condition is false.
+
+Statement:- statement of the loop executed each time untill the second condition is false.
+
+Increment/Decrement:- It increments or decrements of the variable.
+
+Syntax:-for(initialization;condition,incr/decr){
+                statement to be executed
+               }
+
+Example:-program to prints table of 1.
+public class table1{
+           public static void main(String[] args){
+                        for(int i=1; i<=10; i++){
+                           System.out.println(i);
+                 }
+          }
+
+  }
