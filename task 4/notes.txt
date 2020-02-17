@@ -1,0 +1,16 @@
+Declaring an Array:-
+Java Array:-is an object which elements of similar data type.
+
+Syntax to declare an array:-
+datatype[]arr; (or)
+datatype[]arr; (or)
+datatype arr[];
+
+eg:-int a[0]=10;
+a[1]=20;
+a[2]=70;
+a[3]=40;
+a[4]=50;
+for(int i=0; i<a.length;i++){
+System.out.println(a[i]);
+}
