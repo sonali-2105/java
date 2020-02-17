@@ -1,0 +1,6 @@
+Write a program in java to find sum of first 10 prime numbers.
+
+We will divide the above task in 2 steps.
+
+1.Write a program to find whether a given number is prime or not.
+2.Using above logic find sum of first 10 numbers
