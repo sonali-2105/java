@@ -4,7 +4,7 @@ public class Sum_Prime{
     public static void main(String[] args){
         
         int i, num, count, sum=0;
-        for(num=1; num<=30;num++)
+        for(num=1; num<=30; num++)
         {
             count=0;
             for(i=2; i<=num/2; i++)

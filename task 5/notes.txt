@@ -1,0 +1,39 @@
+check_prime number program notes:-
+
+if statement:-The Java if statement is used to test the condition. It checks boolean condition: true or false. There are various types of if statement in Java.
+
+* if statement
+* if-else statement
+* if-else-if ladder
+* nested if statement
+
+* If statement tests the condition. The IF BLOCK executes if condition is true.
+
+Syntax:-
+if(condition){
+//code to be executed
+}
+
+If-else statement:-This statement tests the condition. It executes the IF block if condition is true , otherwise else statement is executed.
+
+
+Syntax:-
+if(condition){
+//code condition is true
+}else{
+//code if condition is false
+
+For Loop:-used to iterate a part of program several times.
+
+Break in For Loop:-It is useful if we have nested for loop so that we can break/continue specific for loop.
+
+Syntax:-
+labelname:
+for(initialization; condition; incr/decr){
+//code to be executed
+}
+
+Logical AND &&operator:-The logical  && operator doesn't check second condition if first condition is false. It checks second condition only if first condition is true.
+
+equality != :- Relational Operator
+

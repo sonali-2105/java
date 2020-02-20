@@ -2,10 +2,10 @@ public class Check_Prime{
     
      public static void main(String[] args)
      {
-         int i, count=0, num=179;
+         int i, count=0, num=112;
          
          
-       // System.out.print("Enter a number : ");
+       
          
          
          for(i=2; i<=num/2; i++)
