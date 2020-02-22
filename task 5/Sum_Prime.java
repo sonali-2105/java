@@ -1,5 +1,3 @@
-import java.util.scanner;
-
 public class Sum_Prime{
     public static void main(String[] args){
         
