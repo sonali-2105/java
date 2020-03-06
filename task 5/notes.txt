@@ -37,3 +37,6 @@ Logical AND &&operator:-The logical  && operator doesn't check second condition 
 
 equality != :- Relational Operator
 
+Sum_Prime program notes:-
+
+

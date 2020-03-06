@@ -1,0 +1,23 @@
+Write a program in java to count blanks, tabs, and newlines.
+
+
+discussion : 01/01/2020
+* what is serialization and deserialization ? 
+***** stash changes for fetch activity by title. *****
+----------------------------- ----
+discussion : 03/01/2020
+
+* Get latest by dateTime field. done
+* search by title and item Type
+* add contributed by field in activity entity.
+
+Learning pathway for given task :
+
+1.learn about ascii characters
+2. How characters are represent in string.
+
+The following link will help you get some understanding about task 6. Read article 1 and 2 then try the example given in article 3 :
+
+1. https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html
+2. https://docs.oracle.com/javase/tutorial/java/data/characters.html
+3.https://www.java-examples.com/java-char-example
